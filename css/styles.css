@@ -170,5 +170,31 @@ body {
 /* --------------PAGE-PORTFOLIO ------------*/
 
 /* --------------FILTER ------------*/
+.filter-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
+  color: var(--main-text-color);
+}
+.filter-link:hover,
+.filter-link:focus {
+  background-color: var(--accent-color);
+  color: #ffffff;
+}
 
 /* --------------PRODUCT ------------*/
+.product-name {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: var(--main-text-color);
+}
+.product-specialization {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
+  color: var(--second-text-color);
+}
