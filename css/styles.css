@@ -30,6 +30,7 @@ body {
 }
 /* --------------HEADER ------------*/
 .header-link-log {
+  font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -132,6 +133,7 @@ body {
   background: #2f303a;
 }
 .footer-log {
+  font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
