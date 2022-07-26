@@ -178,11 +178,13 @@ body {
 
 .footer-link-address:hover,
 .footer-link-address:focus {
-  background-color: #6e6b6b;
+  color: var(--accent-color);
+  /*background-color: #6e6b6b;*/
 }
 .footer-link:hover,
 .footer-link:focus {
-  background-color: #6e6b6b;
+  color: var(--accent-color);
+  /*background-color: #6e6b6b;*/
 }
 /* --------------PAGE-PORTFOLIO ------------*/
 
@@ -195,12 +197,11 @@ body {
   line-height: 1.62;
   letter-spacing: 0.03em;
   color: var(--main-text-color);
+  cursor: pointer;
 }
 .filter-btn:hover {
   background: var(--second-btn-color);
   color: #ffffff;
-  /*opacity: 0.9;*/
-  cursor: pointer;
 }
 
 /* --------------PRODUCT ------------*/
